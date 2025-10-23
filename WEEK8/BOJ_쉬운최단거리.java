@@ -41,8 +41,6 @@ public class BOJ_쉬운최단거리 {
             }
         }
 
-
-
         Point start = deque.peekFirst();
         visited[start.x][start.y] = true;
 
