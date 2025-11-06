@@ -9,8 +9,6 @@ public class BOJ_친구네트워크 {
 
     static int[] dp;
 
-
-
     public static void main(String[] args) throws Exception {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         int T = Integer.parseInt(br.readLine());
